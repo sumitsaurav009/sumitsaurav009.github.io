@@ -15,8 +15,7 @@ body {
   line-height: 1.6;
 }
 
-.hero,
-.subhead {
+.hero {
   background: linear-gradient(135deg, #0d1b2a, #1b263b);
   color: #fff;
   padding: 1rem 1.5rem;
