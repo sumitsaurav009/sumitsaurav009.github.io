@@ -31,7 +31,16 @@ body {
   align-items: center;
   gap: 1rem;
 }
-
+.nav {
+  max-width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  background: linear-gradient(135deg, #0d1b2a, #1b263b);
+  padding: 1rem 1.5rem;
+}
 .header {
   background: linear-gradient(135deg, #0d1b2a, #1b263b);
   color: white;
