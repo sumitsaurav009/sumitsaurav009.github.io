@@ -32,6 +32,17 @@ body {
   gap: 1rem;
 }
 
+.header {
+  background: linear-gradient(135deg, #0d1b2a, #1b263b);
+  color: white;
+  padding: 1rem 1.5rem;
+}
+
+.hero-content {
+  max-width: 1000px;
+  margin: 2rem auto;
+  padding: 1.5rem;
+}
 .brand { color: #fff; font-weight: 700; text-decoration: none; }
 
 .nav-links { display: flex; gap: 1rem; flex-wrap: wrap; }
